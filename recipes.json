@@ -25,5 +25,68 @@
     "shortDescription": "Brazilian condensed milk flan.",
     "time": "1 hr",
     "difficulty": "medium"
+  },
+  {
+    "id": 4,
+    "name": "Cocada",
+    "category": "sweet",
+    "image": "images/cocada.jpg",
+    "shortDescription": "A traditional coconut sweet with a chewy texture.",
+    "time": "35 min",
+    "difficulty": "easy"
+  },
+  {
+    "id": 5,
+    "name": "Quindim",
+    "category": "sweet",
+    "image": "images/quindim.jpg",
+    "shortDescription": "A glossy Brazilian dessert made with egg yolks and coconut.",
+    "time": "50 min",
+    "difficulty": "medium"
+  },
+  {
+    "id": 6,
+    "name": "Pamonha",
+    "category": "sweet",
+    "image": "images/pamonha.jpg",
+    "shortDescription": "A soft corn-based Brazilian dish often served sweet.",
+    "time": "1 hr 15 min",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "name": "Bolinha de Queijo",
+    "category": "savory",
+    "image": "images/bolinha.jpg",
+    "shortDescription": "Small fried cheese balls that are popular as snacks.",
+    "time": "40 min",
+    "difficulty": "easy"
+  },
+  {
+    "id": 8,
+    "name": "Empada",
+    "category": "savory",
+    "image": "images/empada.jpg",
+    "shortDescription": "A small Brazilian savory pie with a soft crust.",
+    "time": "1 hr",
+    "difficulty": "medium"
+  },
+  {
+    "id": 9,
+    "name": "Farofa",
+    "category": "savory",
+    "image": "images/farofa.jpg",
+    "shortDescription": "Toasted cassava flour dish often served as a side.",
+    "time": "20 min",
+    "difficulty": "easy"
+  },
+  {
+    "id": 10,
+    "name": "Strogonoff",
+    "category": "savory",
+    "image": "images/strogonoff.jpg",
+    "shortDescription": "Brazilian-style chicken stroganoff served with rice and potato sticks.",
+    "time": "45 min",
+    "difficulty": "easy"
   }
 ]
