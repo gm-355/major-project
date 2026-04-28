@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Brigadeiro",
+    "category": "sweet",
+    "image": "images/brigadeiro.jpg",
+    "shortDescription": "Chocolate Brazilian truffles made with condensed milk.",
+    "time": "25 min",
+    "difficulty": "easy"
+  },
+  {
+    "id": 2,
+    "name": "Pão de Queijo",
+    "category": "savory",
+    "image": "images/paodequeijo.jpg",
+    "shortDescription": "Cheesy Brazilian bread rolls.",
+    "time": "30 min",
+    "difficulty": "easy"
+  },
+  {
+    "id": 3,
+    "name": "Pudim",
+    "category": "sweet",
+    "image": "images/pudim.jpg",
+    "shortDescription": "Brazilian condensed milk flan.",
+    "time": "1 hr",
+    "difficulty": "medium"
+  }
+]

@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.controls {
+  margin: 20px 0;
+}
+
+button {
+  margin-right: 10px;
+  padding: 8px 12px;
+}
+
+#recipeContainer {
+  display: grid;
+  gap: 20px;
+}
