@@ -5,7 +5,7 @@
     "category": "sweet",
     "image": "images/brigadeiro.jpg",
     "shortDescription": "Chocolate Brazilian truffles made with condensed milk.",
-    "time": "25 min",
+    "time": "20 min",
     "difficulty": "easy"
   },
   {
@@ -14,7 +14,7 @@
     "category": "savory",
     "image": "images/paodequeijo.jpg",
     "shortDescription": "Cheesy Brazilian bread rolls.",
-    "time": "30 min",
+    "time": "1 hr",
     "difficulty": "easy"
   },
   {
@@ -23,7 +23,7 @@
     "category": "sweet",
     "image": "images/pudim.jpg",
     "shortDescription": "Brazilian condensed milk flan.",
-    "time": "1 hr",
+    "time": "1 hr 20 min",
     "difficulty": "medium"
   },
   {
@@ -32,7 +32,7 @@
     "category": "sweet",
     "image": "images/cocada.jpg",
     "shortDescription": "A traditional coconut sweet with a chewy texture.",
-    "time": "35 min",
+    "time": "25 min",
     "difficulty": "easy"
   },
   {
@@ -41,7 +41,7 @@
     "category": "sweet",
     "image": "images/quindim.jpg",
     "shortDescription": "A glossy Brazilian dessert made with egg yolks and coconut.",
-    "time": "50 min",
+    "time": "45 min",
     "difficulty": "medium"
   },
   {
@@ -50,7 +50,7 @@
     "category": "sweet",
     "image": "images/pamonha.jpg",
     "shortDescription": "A soft corn-based Brazilian dish often served sweet.",
-    "time": "1 hr 15 min",
+    "time": "1 hr 30 min",
     "difficulty": "medium"
   },
   {
@@ -68,7 +68,7 @@
     "category": "savory",
     "image": "images/empada.jpg",
     "shortDescription": "A small Brazilian savory pie with a soft crust.",
-    "time": "1 hr",
+    "time": "1 hr 15 min",
     "difficulty": "medium"
   },
   {
@@ -86,7 +86,7 @@
     "category": "savory",
     "image": "images/strogonoff.jpg",
     "shortDescription": "Brazilian-style chicken strogonoff served with rice and potato sticks.",
-    "time": "45 min",
+    "time": "1 hr",
     "difficulty": "easy"
   }
 ]

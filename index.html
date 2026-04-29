@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Brazilian Recipes</title>
   <link rel="stylesheet" href="styles.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -13,13 +14,39 @@
     <p>Explore sweet and savory Brazilian recipes.</p>
   </header>
 
-  <section class="controls">
+<section class="controls">
+  <form id="searchForm">
+    <input type="text" id="searchBox" placeholder="Search recipes">
+    <button type="submit">Search</button>
+  </form>
+
+  <div class="category-buttons">
     <button id="allBtn">All</button>
     <button id="sweetBtn">Sweets</button>
     <button id="savoryBtn">Savory</button>
-  </section>
+  </div>
+</section>
 
   <main id="recipeContainer" class="recipe-layout"></main>
+
+<footer class="page-footer">
+  <details>
+    <summary>Image Credits</summary>
+
+    <p>Brigadeiro – Photo by <a href="https://unsplash.com/@pires128" target="_blank">Felippe Lopes</a></p>
+    <p>Pudim – Photo by <a href="https://www.tudogostoso.com.br/receita/31593-pudim-de-leite-condensado.html" target="_blank">Tudo Gostoso</a></p>
+    <p>Cocada – Photo by <a href="https://www.receiteria.com.br/receita/cocada/" target="_blank">Receiteria</a></p>
+    <p>Quindim – Photo by <a href="https://www.receiteria.com.br/receita/quindim-simples/" target="_blank">Receiteria</a></p>
+    <p>Pamonha – Photo by <a href="https://www.tudogostoso.com.br/receita/95044-pamonha-doce.html" target="_blank">Tudo Gostoso</a></p>
+    <p>Bolinha de Queijo – Photo by <a href="https://www.receiteria.com.br/receita/bolinha-de-queijo-com-3-ingredientes/" target="_blank">Receiteria</a></p>
+    <p>Empada – Photo by <a href="https://www.receiteria.com.br/receita/empadinha-de-frango-facil/" target="_blank">Receiteria</a></p>
+    <p>Farofa – Photo by <a href="https://www.receiteria.com.br/receita/farofa-facil/" target="_blank">Receiteria</a></p>
+    <p>Pão de Queijo – Photo by <a href="https://www.tudogostoso.com.br/receita/69468-pao-de-queijo-facil-e-delicioso.html" target="_blank">Tudo Gostoso</a></p>
+    <p>Chicken Strogonoff – Photo by <a href="https://www.tudogostoso.com.br/receita/2462-strogonoff-de-frango.html" target="_blank">Tudo Gostoso</a></p>
+
+    <p>© Giovanna M.</p>
+  </details>
+</footer>
 
   <script src="script.js"></script>
 </body>
