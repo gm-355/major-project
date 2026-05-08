@@ -126,7 +126,7 @@ body {
   text-align: center;
 }
 
-.active-btn {
+.controls button.active-btn {
   background-color: #FEDD00;
   color: #222;
 }
