@@ -1,6 +1,7 @@
 let recipesData = [];
 let currentCategory = "all";
 
+// load the recipes from the JSON file
 document.addEventListener("DOMContentLoaded", function () {
   fetch("recipes.json")
     .then(function (response) {
@@ -61,6 +62,7 @@ function displayRecipes(recipes) {
   }
 }
 
+// set up the category buttons
 function setButtons() {
   let allBtn = document.getElementById("allBtn");
   let sweetBtn = document.getElementById("sweetBtn");
@@ -77,7 +79,8 @@ function setButtons() {
     updateActiveButton(sweetBtn);
 
     let sweetRecipes = [];
-
+    
+   // check each recipe against the search and category
     for (let i = 0; i < recipesData.length; i++) {
       if (recipesData[i].category == "sweet") {
         sweetRecipes.push(recipesData[i]);
