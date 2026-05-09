@@ -503,5 +503,139 @@
       "Cook over medium heat, stirring constantly until it thickens.",
       "Add the heavy cream, mix well, and turn off the heat."
     ]
+  },
+
+   {
+    "id": 20,
+    "name": "Coxinha de Frango",
+    "category": "savory",
+    "image": "images/coxinha.jpg",
+    "shortDescription": "A popular Brazilian fried snack filled with seasoned shredded chicken.",
+    "time": "1 hr 20 min",
+    "difficulty": "medium",
+    "ingredients": [
+      "3 cups water",
+      "3 tablespoons margarine",
+      "Salt to taste",
+      "Black pepper to taste",
+      "3 cups corn flour",
+      "1 tablespoon cornstarch",
+      "2 eggs for coating",
+      "Flaked corn flour for coating",
+      "Oil for frying",
+      "1 tablespoon oil",
+      "1 chopped onion",
+      "4 crushed garlic cloves",
+      "2 1/2 cups cooked and shredded chicken",
+      "1 chopped tomato without seeds",
+      "4 tablespoons chopped green olives",
+      "1/2 cup light creamy requeijao",
+      "2 tablespoons chopped parsley"
+    ],
+    "instructions": [
+      "Heat the oil in a pan and sauté the onion and garlic until golden.",
+      "Add the chicken, tomato, and olives, and cook for a few minutes.",
+      "Mix in the requeijao and parsley, season with salt and black pepper, and set aside.",
+      "For the dough, bring the water, margarine, salt, and black pepper to a boil in a pan.",
+      "Add the corn flour and cornstarch all at once, stirring well until the dough pulls away from the bottom.",
+      "Transfer the dough to a smooth surface and let it cool slightly before kneading.",
+      "Open small portions of dough in your hand and place some filling inside.",
+      "Close and shape the coxinhas.",
+      "Dip them in beaten eggs and then coat them with flaked corn flour.",
+      "Fry in hot oil until golden and drain on paper towels."
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Risoles de Carne Moída",
+    "category": "savory",
+    "image": "images/risoles.jpg",
+    "shortDescription": "Brazilian fried turnovers filled with seasoned ground beef.",
+    "time": "1 hr 15 min",
+    "difficulty": "medium",
+    "ingredients": [
+      "250 ml milk",
+      "200 ml water",
+      "1 chicken bouillon cube",
+      "Salt to taste",
+      "1 heaping tablespoon margarine",
+      "3 cups all-purpose flour",
+      "2 tablespoons olive oil",
+      "1/2 onion",
+      "2 garlic cloves",
+      "250 g ground beef",
+      "1 tablespoon tomato paste",
+      "Parsley to taste",
+      "Black pepper to taste",
+      "1/2 teaspoon paprika",
+      "2 eggs",
+      "1/2 cup water",
+      "Breadcrumbs for coating",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Peel and dice the onion, crush the garlic, and separate all the ingredients.",
+      "For the filling, heat the oil in a pan and add the ground beef, letting it brown before stirring.",
+      "When the beef changes color, add the onion, garlic, salt, paprika, black pepper, and tomato paste.",
+      "Cook until the filling is fully cooked and set aside.",
+      "For the dough, place the milk, water, chicken bouillon, margarine, and salt in a pan and bring to a boil.",
+      "Lower the heat and gradually add the flour, stirring until a dough forms.",
+      "Cook the dough for about 5 to 10 minutes.",
+      "Transfer the dough to a counter and knead with the help of a rolling pin until it cools.",
+      "Open small discs of dough, fill them with the ground beef, and close the risoles tightly.",
+      "To coat them, mix the eggs, water, and salt in one bowl and place the breadcrumbs in another.",
+      "Dip the risoles in the egg mixture and then in the breadcrumbs.",
+      "Fry in hot oil until golden and drain on paper towels."
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Pão de Alho",
+    "category": "savory",
+    "image": "images/paodealho.jpg",
+    "shortDescription": "Brazilian garlic bread made with cheese, garlic, and mayonnaise.",
+    "time": "25 min",
+    "difficulty": "easy",
+    "ingredients": [
+      "4 bread rolls",
+      "3 tablespoons mayonnaise",
+      "3 crushed garlic cloves",
+      "2 tablespoons butter or margarine",
+      "2 tablespoons grated parmesan cheese",
+      "120 g shredded mozzarella cheese",
+      "Herbs to taste"
+    ],
+    "instructions": [
+      "Gather all the ingredients.",
+      "In a bowl, mix the mayonnaise, garlic, butter or margarine, parmesan, mozzarella, and herbs.",
+      "Make cuts in the bread, being careful not to cut all the way through.",
+      "Spread the garlic mixture inside each cut and over the top.",
+      "Bake in the air fryer for 10 minutes at 200°C, or in the oven for about 20 to 25 minutes at the same temperature.",
+      "Serve warm."
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Biscoito de Polvilho",
+    "category": "savory",
+    "image": "images/biscoito.jpg",
+    "shortDescription": "A light and crispy Brazilian baked cassava starch biscuit.",
+    "time": "35 min",
+    "difficulty": "easy",
+    "ingredients": [
+      "500 g sour cassava starch",
+      "200 ml boiling water",
+      "150 ml oil at room temperature",
+      "5 eggs",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "In a bowl, combine the cassava starch, boiling water, and oil.",
+      "Mix well and add salt to taste.",
+      "Add the eggs one at a time until the dough becomes consistent.",
+      "Place the dough in a piping bag and shape the biscuits on a baking tray.",
+      "There is no need to grease the tray.",
+      "Bake in a preheated medium oven at 180°C for about 25 minutes."
+    ]
   }
 ]

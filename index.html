@@ -2,96 +2,117 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Brazilian Recipes</title>
-  <link rel="stylesheet" href="styles.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Brazilian Recipes</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
 </head>
 
 <body>
 
-  <header class="title-box">
-    <h1>Brazilian Recipes</h1>
-    <p>Explore sweet and savory Brazilian recipes.</p>
-  </header>
+    <header class="title-box">
+        <h1>Brazilian Recipes</h1>
+        <p>Explore sweet and savory Brazilian recipes.</p>
+    </header>
 
-  <section class="controls">
-    <form id="searchForm">
-      <input type="text" id="searchBox" placeholder="Search by recipe name">
-      <button type="submit">Search</button>
-    </form>
+    <section class="controls">
+        <form id="searchForm">
+            <input type="text" id="searchBox" placeholder="Search by recipe name">
+            <button type="submit">Search</button>
+        </form>
 
-    <div class="category-buttons">
-      <button id="allBtn">All</button>
-      <button id="sweetBtn">Sweets</button>
-      <button id="savoryBtn">Savory</button>
-    </div>
-  </section>
+        <div class="category-buttons">
+            <button id="allBtn">All</button>
+            <button id="sweetBtn">Sweets</button>
+            <button id="savoryBtn">Savory</button>
+        </div>
+    </section>
 
-  <main id="recipeContainer" class="recipe-layout"></main>
+    <main id="recipeContainer" class="recipe-layout"></main>
 
-  <footer class="page-footer">
-    <details>
-      <summary>Image Credits</summary>
+    <footer class="page-footer">
+        <details>
+            <summary>Image Credits</summary>
 
-      <p>Brigadeiro – Photo by <a href="https://unsplash.com/@pires128" target="_blank">Felippe Lopes</a></p>
-      <p>Pudim – Photo by <a href="https://www.tudogostoso.com.br/receita/31593-pudim-de-leite-condensado.html"
-          target="_blank">Tudo Gostoso</a></p>
-      <p>Cocada – Photo by <a href="https://www.receiteria.com.br/receita/cocada/" target="_blank">Receiteria</a></p>
-      <p>Quindim – Photo by <a href="https://www.receiteria.com.br/receita/quindim-simples/"
-          target="_blank">Receiteria</a></p>
-      <p>Pamonha – Photo by <a href="https://www.tudogostoso.com.br/receita/95044-pamonha-doce.html"
-          target="_blank">Tudo Gostoso</a></p>
-      <p>Bolinha de Queijo – Photo by <a
-          href="https://www.receiteria.com.br/receita/bolinha-de-queijo-com-3-ingredientes/"
-          target="_blank">Receiteria</a></p>
-      <p>Empada – Photo by <a href="https://www.receiteria.com.br/receita/empadinha-de-frango-facil/"
-          target="_blank">Receiteria</a></p>
-      <p>Farofa – Photo by <a href="https://www.receiteria.com.br/receita/farofa-facil/" target="_blank">Receiteria</a>
-      </p>
-      <p>Pão de Queijo – Photo by <a
-          href="https://www.tudogostoso.com.br/receita/69468-pao-de-queijo-facil-e-delicioso.html" target="_blank">Tudo
-          Gostoso</a></p>
-      <p>Chicken Strogonoff – Photo by <a href="https://www.tudogostoso.com.br/receita/2462-strogonoff-de-frango.html"
-          target="_blank">Tudo Gostoso</a></p>
+            <p>Brigadeiro – Photo by <a href="https://unsplash.com/@pires128" target="_blank">Felippe Lopes</a></p>
+            <p>Pudim – Photo by <a href="https://www.tudogostoso.com.br/receita/31593-pudim-de-leite-condensado.html"
+                    target="_blank">Tudo Gostoso</a></p>
+            <p>Cocada – Photo by <a href="https://www.receiteria.com.br/receita/cocada/" target="_blank">Receiteria</a>
+            </p>
+            <p>Quindim – Photo by <a href="https://www.receiteria.com.br/receita/quindim-simples/"
+                    target="_blank">Receiteria</a></p>
+            <p>Pamonha – Photo by <a href="https://www.tudogostoso.com.br/receita/95044-pamonha-doce.html"
+                    target="_blank">Tudo Gostoso</a></p>
+            <p>Bolinha de Queijo – Photo by <a
+                    href="https://www.receiteria.com.br/receita/bolinha-de-queijo-com-3-ingredientes/"
+                    target="_blank">Receiteria</a></p>
+            <p>Empada – Photo by <a href="https://www.receiteria.com.br/receita/empadinha-de-frango-facil/"
+                    target="_blank">Receiteria</a></p>
+            <p>Farofa – Photo by <a href="https://www.receiteria.com.br/receita/farofa-facil/"
+                    target="_blank">Receiteria</a>
+            </p>
+            <p>Pão de Queijo – Photo by <a
+                    href="https://www.tudogostoso.com.br/receita/69468-pao-de-queijo-facil-e-delicioso.html"
+                    target="_blank">Tudo
+                    Gostoso</a></p>
+            <p>Chicken Strogonoff – Photo by <a
+                    href="https://www.tudogostoso.com.br/receita/2462-strogonoff-de-frango.html" target="_blank">Tudo
+                    Gostoso</a></p>
 
-      <p>Beijinho – Photo by <a href="https://panelinha.com.br/receita/beijinho-de-coco" target="_blank">Panelinha</a>
-      </p>
+            <p>Beijinho – Photo by <a href="https://panelinha.com.br/receita/beijinho-de-coco"
+                    target="_blank">Panelinha</a>
+            </p>
 
-      <p>Enroladinho de Salsicha – Photo by <a
-          href="https://www.amandocozinhar.com/2013/05/enroladinho-de-salsicha-assado.html" target="_blank">Amando
-          Cozinhar</a></p>
+            <p>Enroladinho de Salsicha – Photo by <a
+                    href="https://www.amandocozinhar.com/2013/05/enroladinho-de-salsicha-assado.html"
+                    target="_blank">Amando
+                    Cozinhar</a></p>
 
-      <p>Bolinho de Espinafre – Photo by <a
-          href="https://www.sabornamesa.com.br/receitas-de-lanches/bolinho-de-espinafre-assado-e-frito-simples-e-facil?utm_source=Pinterest&utm_medium=organic"
-          target="_blank">Sabor na Mesa</a></p>
+            <p>Bolinho de Espinafre – Photo by <a
+                    href="https://www.sabornamesa.com.br/receitas-de-lanches/bolinho-de-espinafre-assado-e-frito-simples-e-facil?utm_source=Pinterest&utm_medium=organic"
+                    target="_blank">Sabor na Mesa</a></p>
 
-      <p>Mousse de Limão – Photo by <a
-          href="https://receitadaboa.com.br/receitas/mousse-de-limao-fit-mais-saudavel-e-refrescante/"
-          target="_blank">Receita da Boa</a></p>
+            <p>Mousse de Limão – Photo by <a
+                    href="https://receitadaboa.com.br/receitas/mousse-de-limao-fit-mais-saudavel-e-refrescante/"
+                    target="_blank">Receita da Boa</a></p>
 
-      <p>Arroz Doce – Photo by <a href="https://www.tudogostoso.com.br/receita/10592-arroz-doce-cremoso.html"
-          target="_blank">Tudo Gostoso</a></p>
+            <p>Arroz Doce – Photo by <a href="https://www.tudogostoso.com.br/receita/10592-arroz-doce-cremoso.html"
+                    target="_blank">Tudo Gostoso</a></p>
 
-      <p>Pé de Moleque – Photo by <a href="https://www.oliviascuisine.com/pe-de-moleque-brazilian-peanut-brittle/"
-          target="_blank">Olivia's Cuisine</a></p>
+            <p>Pé de Moleque – Photo by <a href="https://www.oliviascuisine.com/pe-de-moleque-brazilian-peanut-brittle/"
+                    target="_blank">Olivia's Cuisine</a></p>
 
-      <p>Palha Italiana – Photo by <a
-          href="https://receitas.globo.com/tipos-de-prato/doces-e-sobremesas/palha-italiana-546de3c74d388520ee00003f.ghtml"
-          target="_blank">Receitas Globo</a></p>
+            <p>Palha Italiana – Photo by <a
+                    href="https://receitas.globo.com/tipos-de-prato/doces-e-sobremesas/palha-italiana-546de3c74d388520ee00003f.ghtml"
+                    target="_blank">Receitas Globo</a></p>
 
-      <p>Maçã do Amor – Photo by <a href="https://www.tudogostoso.com.br/receita/22409-maca-do-amor.html"
-          target="_blank">Tudo Gostoso</a></p>
+            <p>Maçã do Amor – Photo by <a href="https://www.tudogostoso.com.br/receita/22409-maca-do-amor.html"
+                    target="_blank">Tudo Gostoso</a></p>
 
-      <p>Creme de Milho – Photo by <a href="https://www.tudogostoso.com.br/receita/6662-creme-de-milho.html"
-          target="_blank">Tudo Gostoso</a></p>
+            <p>Creme de Milho – Photo by <a href="https://www.tudogostoso.com.br/receita/6662-creme-de-milho.html"
+                    target="_blank">Tudo Gostoso</a></p>
 
-      <p>© Giovanna M.</p>
-    </details>
-  </footer>
+            <p>Coxinha de Frango – Photo by <a href="https://www.snapcalorie.com/recipes/keto_coxinha_de_frango.html"
+                    target="_blank">SnapCalorie</a></p>
 
-  <script src="script.js"></script>
+            <p>Risoles de Carne Moída – Photo by <a
+                    href="https://www.receiteria.com.br/receita/risoles-de-carne-moida-facil/"
+                    target="_blank">Receiteria</a></p>
+
+            <p>Pão de Alho – Photo by <a href="https://www.receiteria.com.br/receita/pao-de-alho-caseiro/"
+                    target="_blank">Receiteria</a></p>
+
+            <p>Biscoito de Polvilho – Photo by <a
+                    href="https://www.tudogostoso.com.br/receita/134285-biscoito-de-polvilho-assado-facil.html"
+                    target="_blank">Tudo Gostoso</a></p>
+
+            <p>© Giovanna M.</p>
+        </details>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 
 </html>
