@@ -176,3 +176,27 @@ body {
   line-height: 1.4;
   margin-bottom: 5px;
 }
+
+@media screen and (max-width: 480px) {
+  body {
+    padding: 12px;
+  }
+
+  .title-box h1 {
+    font-size: 2rem;
+  }
+
+  .controls input {
+    width: 100%;
+    max-width: 280px;
+    margin-bottom: 10px;
+  }
+
+  .controls form button {
+    margin-left: 0;
+  }
+
+  .controls button {
+    margin: 6px;
+  }
+}

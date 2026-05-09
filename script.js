@@ -18,6 +18,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
+// show recipe cards on the page
 function displayRecipes(recipes) {
   let container = document.getElementById("recipeContainer");
   container.innerHTML = "";
@@ -112,6 +113,7 @@ function updateActiveButton(activeBtn) {
   activeBtn.classList.add("active-btn");
 }
 
+// set up the search form
 function setSearch() {
   let searchForm = document.getElementById("searchForm");
 
