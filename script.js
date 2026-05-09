@@ -23,6 +23,17 @@ function displayRecipes(recipes) {
   container.innerHTML = "";
 
   for (let i = 0; i < recipes.length; i++) {
+    let ingredientsList = "";
+    let instructionsList = "";
+
+    for (let j = 0; j < recipes[i].ingredients.length; j++) {
+      ingredientsList += "<li>" + recipes[i].ingredients[j] + "</li>";
+    }
+
+    for (let j = 0; j < recipes[i].instructions.length; j++) {
+      instructionsList += "<li>" + recipes[i].instructions[j] + "</li>";
+    }
+
     container.innerHTML += `
       <div class="recipe-card">
         <img src="${recipes[i].image}" alt="${recipes[i].name}">
@@ -30,6 +41,20 @@ function displayRecipes(recipes) {
         <p class="recipe-description">${recipes[i].shortDescription}</p>
         <p class="recipe-meta"><strong>Time:</strong> ${recipes[i].time}</p>
         <p class="recipe-meta"><strong>Difficulty:</strong> ${recipes[i].difficulty}</p>
+
+        <details class="recipe-details">
+          <summary>View Recipe</summary>
+
+          <h3>Ingredients</h3>
+          <ul>
+            ${ingredientsList}
+          </ul>
+
+          <h3>Instructions</h3>
+          <ol>
+            ${instructionsList}
+          </ol>
+        </details>
       </div>
     `;
   }
