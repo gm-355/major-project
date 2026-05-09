@@ -26,6 +26,7 @@ body {
   font-size: 1rem;
 }
 
+/* search and filter area */
 .controls {
   text-align: center;
   margin: 30px 0;
@@ -46,6 +47,7 @@ body {
   opacity: 0.9;
 }
 
+/* recipe grid */
 .recipe-layout {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 260px));

@@ -80,7 +80,6 @@ function setButtons() {
 
     let sweetRecipes = [];
     
-   // check each recipe against the search and category
     for (let i = 0; i < recipesData.length; i++) {
       if (recipesData[i].category == "sweet") {
         sweetRecipes.push(recipesData[i]);
@@ -108,6 +107,7 @@ function setButtons() {
   updateActiveButton(allBtn);
 }
 
+// highlight the selected category button
 function updateActiveButton(activeBtn) {
   let allButtons = document.querySelectorAll(".category-buttons button");
 
