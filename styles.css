@@ -1,3 +1,4 @@
+/* general page style */
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
@@ -52,6 +53,7 @@ body {
   justify-content: center;
 }
 
+/* individual recipe cards */
 .recipe-card {
   background-color: white;
   border-radius: 15px;
@@ -80,6 +82,7 @@ body {
   color: #444;
 }
 
+/* image credits */
 .page-footer {
   text-align: center;
   margin-top: 40px;
@@ -137,7 +140,7 @@ body {
   color: #555;
   margin: 4px 0;
 }
-
+/* expandable recipe details */
 .recipe-details {
   margin-top: 12px;
   padding-top: 10px;
@@ -177,6 +180,7 @@ body {
   margin-bottom: 5px;
 }
 
+/* small screen */
 @media screen and (max-width: 480px) {
   body {
     padding: 12px;
