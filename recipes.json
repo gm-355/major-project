@@ -131,7 +131,7 @@
     "image": "images/pamonha.jpg",
     "shortDescription": "A soft corn-based Brazilian dish often served sweet.",
     "time": "1 hr 30 min",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "ingredients": [
       "Corn ears",
       "Water",
@@ -512,7 +512,7 @@
     "image": "images/coxinha.jpg",
     "shortDescription": "A popular Brazilian fried snack filled with seasoned shredded chicken.",
     "time": "1 hr 20 min",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "ingredients": [
       "3 cups water",
       "3 tablespoons margarine",
@@ -552,7 +552,7 @@
     "image": "images/risoles.jpg",
     "shortDescription": "Brazilian fried turnovers filled with seasoned ground beef.",
     "time": "1 hr 15 min",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "ingredients": [
       "250 ml milk",
       "200 ml water",
