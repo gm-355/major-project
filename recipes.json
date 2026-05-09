@@ -6,7 +6,19 @@
     "image": "images/brigadeiro.jpg",
     "shortDescription": "Chocolate Brazilian truffles made with condensed milk.",
     "time": "20 min",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "ingredients": [
+      "1 can sweetened condensed milk",
+      "1 tablespoon unsalted margarine",
+      "7 tablespoons chocolate drink mix or 4 tablespoons cocoa powder",
+      "Chocolate sprinkles"
+    ],
+    "instructions": [
+      "Add the condensed milk, margarine, and chocolate powder to a deep pan.",
+      "Cook over medium heat, stirring until the mixture starts to pull away from the bottom of the pan.",
+      "Let it cool.",
+      "Roll the mixture into small balls and cover them with chocolate sprinkles."
+    ]
   },
   {
     "id": 2,
@@ -15,7 +27,26 @@
     "image": "images/paodequeijo.jpg",
     "shortDescription": "Cheesy Brazilian bread rolls.",
     "time": "1 hr",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "ingredients": [
+      "500 g sweet tapioca starch",
+      "1 or 2 eggs",
+      "250 ml whole milk",
+      "1/2 cup oil",
+      "1 tablespoon salt",
+      "1 package grated parmesan cheese",
+      "350 g grated meia cura cheese or mozzarella"
+    ],
+    "instructions": [
+      "Heat the milk and oil in a pan and turn off the heat as soon as it starts to boil.",
+      "In a large bowl, mix the tapioca starch and salt.",
+      "Pour the hot milk and oil mixture into the bowl and mix first with a spoon, then with your hands.",
+      "Add the grated parmesan, some of the other cheese, and 1 egg, then keep mixing.",
+      "Add the rest of the cheese and check the texture of the dough.",
+      "If the dough is too dry, add another egg. If it is too oily, add a little more tapioca starch.",
+      "Shape the dough into small balls and place them on a baking sheet.",
+      "Bake at 230°C until lightly golden."
+    ]
   },
   {
     "id": 3,
@@ -24,7 +55,24 @@
     "image": "images/pudim.jpg",
     "shortDescription": "Brazilian condensed milk flan.",
     "time": "1 hr 20 min",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "ingredients": [
+      "1 can sweetened condensed milk",
+      "1 can milk, using the condensed milk can as measurement",
+      "3 whole eggs",
+      "1 cup sugar",
+      "1/2 cup water"
+    ],
+    "instructions": [
+      "Blend the eggs well in a blender.",
+      "Add the condensed milk and milk, then blend again.",
+      "Melt the sugar in a pan until it turns golden brown.",
+      "Add the water and let the caramel thicken.",
+      "Pour the caramel into a round pan and add the pudding mixture on top.",
+      "Bake in a water bath for about 45 minutes.",
+      "Check with a fork to see if it is fully baked.",
+      "Let it cool and remove from the pan."
+    ]
   },
   {
     "id": 4,
@@ -33,7 +81,22 @@
     "image": "images/cocada.jpg",
     "shortDescription": "A traditional coconut sweet with a chewy texture.",
     "time": "25 min",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "ingredients": [
+      "2 1/2 cups fresh grated coconut",
+      "1 1/2 cups sugar",
+      "1 cup water"
+    ],
+    "instructions": [
+      "In a medium pan, mix the sugar and water carefully.",
+      "Cook over medium heat without stirring for about 20 minutes, until the syrup reaches a thin thread point.",
+      "Add the coconut and mix just enough to coat it with the syrup.",
+      "Cook for 5 more minutes over medium heat without stirring too much.",
+      "Transfer the cocada to a bowl and let it rest for 5 minutes.",
+      "Grease a baking sheet with butter.",
+      "Use two spoons to shape small portions and place them on the baking sheet.",
+      "Let them dry at room temperature for about 1 hour before serving."
+    ]
   },
   {
     "id": 5,
@@ -42,7 +105,24 @@
     "image": "images/quindim.jpg",
     "shortDescription": "A glossy Brazilian dessert made with egg yolks and coconut.",
     "time": "45 min",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "ingredients": [
+      "200 g sugar",
+      "200 ml coconut milk",
+      "100 g dried grated coconut",
+      "1 heaping tablespoon melted margarine",
+      "10 egg yolks"
+    ],
+    "instructions": [
+      "In a bowl, add the sugar and coconut milk.",
+      "Mix with a spoon.",
+      "Add the coconut and mix again.",
+      "Add the egg yolks and mix everything by hand.",
+      "Pour the mixture into small molds greased with margarine and sugar.",
+      "Leave about 1 teaspoon of sugar at the bottom of each mold to create the shiny top.",
+      "Bake in a preheated oven in a water bath for about 1 hour.",
+      "Check with a toothpick. If it comes out dry, the quindim is ready."
+    ]
   },
   {
     "id": 6,
@@ -51,7 +131,23 @@
     "image": "images/pamonha.jpg",
     "shortDescription": "A soft corn-based Brazilian dish often served sweet.",
     "time": "1 hr 30 min",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "ingredients": [
+      "Corn ears",
+      "Water",
+      "Coconut",
+      "Sugar",
+      "Corn husks for wrapping"
+    ],
+    "instructions": [
+      "Grate the corn or cut the kernels from the cob and blend with water.",
+      "Add the coconut and sugar, then mix well.",
+      "Place the mixture inside the corn husks and tie them well.",
+      "In a large pot, bring water to a full boil.",
+      "Add the pamonhas one by one after the water is boiling.",
+      "Cook for about 40 minutes.",
+      "Remove them with a slotted spoon and let them cool in a fresh place."
+    ]
   },
   {
     "id": 7,
@@ -60,7 +156,23 @@
     "image": "images/bolinha.jpg",
     "shortDescription": "Small fried cheese balls that are popular as snacks.",
     "time": "40 min",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "ingredients": [
+      "250 g grated mozzarella cheese",
+      "1 egg",
+      "4 tablespoons cornstarch",
+      "Oil for frying",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Gather all the ingredients.",
+      "Place all ingredients in a bowl and mix well until a moldable dough forms.",
+      "Take small portions of the dough and shape them into balls.",
+      "Place the balls on a tray.",
+      "Freeze them for 30 minutes.",
+      "Fry the cheese balls in very hot oil.",
+      "Let them drain on paper towels before serving."
+    ]
   },
   {
     "id": 8,
@@ -69,7 +181,42 @@
     "image": "images/empada.jpg",
     "shortDescription": "A small Brazilian savory pie with a soft crust.",
     "time": "1 hr 15 min",
-    "difficulty": "medium"
+    "difficulty": "medium",
+    "ingredients": [
+      "4 cups all-purpose flour",
+      "1 egg",
+      "1 egg yolk",
+      "4 tablespoons butter or margarine",
+      "1 cup vegetable shortening",
+      "Salt to taste",
+      "500 g cooked and shredded chicken breast",
+      "2 large chopped tomatoes",
+      "1 medium chopped onion",
+      "2 chopped garlic cloves",
+      "1 dessert spoon chopped green bell pepper",
+      "1 tablespoon olive oil",
+      "1 can peas",
+      "Chopped parsley to taste",
+      "14 pitted green olives",
+      "250 ml milk",
+      "1 1/2 tablespoons all-purpose flour",
+      "2 egg yolks for brushing"
+    ],
+    "instructions": [
+      "Place the dough ingredients in a large bowl and mix well, adding the flour little by little until a smooth dough forms.",
+      "If the dough is too sticky, add more flour. If it is too dry, add more butter or margarine.",
+      "Wrap the dough in plastic wrap and let it rest while preparing the filling.",
+      "Sauté the onion, garlic, tomato, and bell pepper in olive oil.",
+      "Add the shredded chicken and sauté a little more.",
+      "Add the flour and mix well.",
+      "Add the milk all at once and stir quickly.",
+      "Add the peas, salt, and parsley. When the filling thickens, turn off the heat and set aside.",
+      "Line small molds with the dough, pressing it against the bottom and sides.",
+      "Fill the molds with the cooled filling and add one olive to each empada.",
+      "Cover with dough circles and press the edges.",
+      "Brush with beaten egg yolk and bake for about 20 minutes, or until golden.",
+      "Let them cool before removing from the molds."
+    ]
   },
   {
     "id": 9,
@@ -78,7 +225,27 @@
     "image": "images/farofa.jpg",
     "shortDescription": "Toasted cassava flour dish often served as a side.",
     "time": "20 min",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "ingredients": [
+      "2 calabresa sausages",
+      "1 piece of bacon",
+      "1 medium onion",
+      "4 garlic cloves",
+      "1 packet seasoning mix",
+      "Cassava flour",
+      "1 tablespoon oil",
+      "1 medium carrot"
+    ],
+    "instructions": [
+      "Cut the bacon and calabresa sausage into cubes.",
+      "Add 1 tablespoon of oil to a pan and fry the bacon well.",
+      "Add the calabresa and fry until browned.",
+      "Add the chopped onion and garlic.",
+      "Let everything fry for a little longer.",
+      "Add the grated carrot.",
+      "Add the seasoning mix.",
+      "Add the cassava flour and mix well."
+    ]
   },
   {
     "id": 10,
@@ -87,6 +254,28 @@
     "image": "images/strogonoff.jpg",
     "shortDescription": "Brazilian-style chicken strogonoff served with rice and potato sticks.",
     "time": "1 hr",
-    "difficulty": "easy"
+    "difficulty": "easy",
+    "ingredients": [
+      "3 chicken breasts cut into cubes",
+      "1 chopped garlic clove",
+      "Salt to taste",
+      "Black pepper to taste",
+      "1 chopped onion",
+      "2 tablespoons mayonnaise",
+      "1 tablespoon butter",
+      "1/2 cup ketchup",
+      "1/3 cup mustard",
+      "1 cup mushrooms",
+      "1 cup heavy cream",
+      "Potato sticks to taste"
+    ],
+    "instructions": [
+      "In a bowl, mix the chicken, garlic, mayonnaise, salt, and black pepper.",
+      "In a large skillet, melt the butter and brown the onion.",
+      "Add the seasoned chicken and cook until golden.",
+      "Add the mushrooms, ketchup, and mustard.",
+      "Mix in the heavy cream and remove from the heat before it starts boiling.",
+      "Serve with white rice and potato sticks."
+    ]
   }
 ]
