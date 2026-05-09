@@ -276,6 +276,132 @@
       "Add the mushrooms, ketchup, and mustard.",
       "Mix in the heavy cream and remove from the heat before it starts boiling.",
       "Serve with white rice and potato sticks."
-    ]
-  }
+  ]
+},
+{
+  "id": 11,
+  "name": "Beijinho",
+  "category": "sweet",
+  "image": "images/beijinho.jpg",
+  "shortDescription": "A small Brazilian coconut sweet made with condensed milk.",
+  "time": "25 min",
+  "difficulty": "easy",
+  "ingredients": [
+    "1 can sweetened condensed milk",
+    "150 g grated coconut",
+    "2 tablespoons unsalted margarine",
+    "Granulated sugar"
+  ],
+  "instructions": [
+    "Add the condensed milk, grated coconut, and margarine to a pan.",
+    "Cook over medium heat, stirring until the mixture becomes thick and pulls away from the bottom of the pan.",
+    "Let it cool.",
+    "Roll the mixture into small balls.",
+    "Cover the balls with sugar or grated coconut."
+  ]
+},
+{
+  "id": 12,
+  "name": "Enroladinho de Salsicha",
+  "category": "savory",
+  "image": "images/salsicha.jpg",
+  "shortDescription": "Small baked sausage rolls wrapped in soft dough.",
+  "time": "45 min",
+  "difficulty": "easy",
+  "ingredients": [
+    "2 cups all-purpose flour",
+    "1 tablespoon butter",
+    "Salt to taste",
+    "1 cup milk",
+    "1 tablespoon baking powder",
+    "8 to 10 cooked sausages",
+    "1 egg yolk",
+    "Oregano to taste"
+  ],
+  "instructions": [
+    "In a bowl, mix the flour, butter, salt, milk, and baking powder.",
+    "Add more flour little by little if needed.",
+    "Open the dough and cut it into small rectangles.",
+    "Cut the sausages into 3 pieces and place them on the dough rectangles.",
+    "Roll the dough around the sausage pieces.",
+    "Place the rolls on a greased and floured baking sheet.",
+    "Brush each roll with egg yolk and oregano.",
+    "Bake at 180°C for about 30 minutes."
+  ]
+},
+{
+  "id": 13,
+  "name": "Bolinho de Espinafre",
+  "category": "savory",
+  "image": "images/espinafre.jpg",
+  "shortDescription": "Small spinach fritters made with simple seasoning and flour.",
+  "time": "40 min",
+  "difficulty": "medium",
+  "ingredients": [
+    "1 bunch spinach",
+    "Garlic to taste",
+    "Onion to taste",
+    "Parsley and green onions to taste",
+    "About 8 tablespoons all-purpose flour",
+    "Salt to taste",
+    "1 small spoon cornstarch",
+    "Oil for frying"
+  ],
+  "instructions": [
+    "Boil the spinach briefly in a pot with water.",
+    "Chop the onion, garlic, and parsley, then season with salt.",
+    "Squeeze the spinach to remove extra water and chop it.",
+    "In a pan, sauté the spinach with the other seasonings.",
+    "Add the flour and cornstarch until the mixture becomes a firm dough.",
+    "Shape the mixture into small fritters.",
+    "Heat enough oil to cover the fritters.",
+    "Fry until golden."
+  ]
+},
+{
+  "id": 14,
+  "name": "Mousse de Limão",
+  "category": "sweet",
+  "image": "images/limao.jpg",
+  "shortDescription": "A creamy Brazilian lime mousse made with condensed milk.",
+  "time": "2 hr 10 min",
+  "difficulty": "easy",
+  "ingredients": [
+    "1 can sweetened condensed milk",
+    "1 can heavy cream",
+    "1/2 cup pure lime juice",
+    "Lime Bis chocolate for topping"
+  ],
+  "instructions": [
+    "Blend the condensed milk and heavy cream for about 3 minutes.",
+    "Slowly add the lime juice and keep blending.",
+    "Pour the mousse into a serving dish.",
+    "Refrigerate until firm.",
+    "Before serving, crush the Bis chocolate and sprinkle it on top."
+  ]
+},
+{
+  "id": 15,
+  "name": "Arroz Doce",
+  "category": "sweet",
+  "image": "images/arrodoce.jpg",
+  "shortDescription": "A creamy Brazilian rice pudding with cinnamon and condensed milk.",
+  "time": "1 hr",
+  "difficulty": "easy",
+  "ingredients": [
+    "1 1/2 liters milk",
+    "2 cups white rice, washed",
+    "3 cups sugar",
+    "Cinnamon sticks to taste",
+    "1 can sweetened condensed milk"
+  ],
+  "instructions": [
+    "Cook the rice with the milk and cinnamon in a large pot.",
+    "Use a large pot so the milk does not spill when it boils.",
+    "After 20 minutes, stir from time to time.",
+    "Add the sugar and cook for 20 more minutes.",
+    "Add the condensed milk and cook for another 20 minutes.",
+    "Transfer to a serving dish."
+  ]
+}
 ]
