@@ -101,6 +101,8 @@ function setButtons() {
 
     displayRecipes(savoryRecipes);
   });
+
+  updateActiveButton(allBtn);
 }
 
 function updateActiveButton(activeBtn) {
