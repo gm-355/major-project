@@ -403,5 +403,105 @@
     "Add the condensed milk and cook for another 20 minutes.",
     "Transfer to a serving dish."
   ]
-}
+}, 
+
+  {
+    "id": 16,
+    "name": "Pé de Moleque",
+    "category": "sweet",
+    "image": "images/pedemoleque.jpg",
+    "shortDescription": "A traditional Brazilian peanut sweet made with sugar and condensed milk.",
+    "time": "35 min",
+    "difficulty": "easy",
+    "ingredients": [
+      "500 g peanuts",
+      "1 cup sugar",
+      "1 can sweetened condensed milk"
+    ],
+    "instructions": [
+      "Toast the peanuts and remove the skins.",
+      "Place the peanuts in a pan and add the sugar and condensed milk.",
+      "Cook over medium heat, stirring until the mixture starts to pull away from the bottom of the pan.",
+      "Pour the mixture into a pan greased with oil.",
+      "Let it cool a little.",
+      "Cut into small squares."
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Palha Italiana",
+    "category": "sweet",
+    "image": "images/palha.jpg",
+    "shortDescription": "A Brazilian chocolate sweet made with brigadeiro and crushed cookies.",
+    "time": "35 min",
+    "difficulty": "easy",
+    "ingredients": [
+      "1 can sweetened condensed milk",
+      "8 tablespoons chocolate powder",
+      "1/2 tablespoon margarine",
+      "1 package Maria cookies or cornstarch cookies"
+    ],
+    "instructions": [
+      "Break the cookies into small pieces and set aside.",
+      "Make a brigadeiro using the condensed milk, margarine, and chocolate powder.",
+      "When the brigadeiro starts to pull away from the bottom of the pan, mix in the chopped cookies.",
+      "Remove from the heat.",
+      "Grease a smooth surface with margarine and spread the mixture over it.",
+      "Flatten the mixture with your hands.",
+      "Let it cool and cut into small squares."
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Maçã do Amor",
+    "category": "sweet",
+    "image": "images/maca.jpg",
+    "shortDescription": "Brazilian candy apples covered with a red sugar glaze.",
+    "time": "45 min",
+    "difficulty": "medium",
+    "ingredients": [
+      "1 kg sugar",
+      "500 ml water",
+      "1 tablespoon vinegar",
+      "Red food coloring",
+      "12 small or medium apples"
+    ],
+    "instructions": [
+      "Wash and dry the apples.",
+      "Insert one or two sticks into each apple to make them firm enough for dipping.",
+      "Grease aluminum pans with a small amount of oil.",
+      "Place all the syrup ingredients in a pan.",
+      "Mix only by moving the pan, without using a spoon, so the syrup does not crystallize.",
+      "Cook over high heat until it boils, then lower to medium heat for about 25 minutes.",
+      "Test the syrup by dropping a little onto the pan. If it hardens and makes a solid sound, turn off the heat.",
+      "Quickly dip the apples into the syrup.",
+      "Place the apples on the greased pan before the syrup hardens."
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Creme de Milho",
+    "category": "savory",
+    "image": "images/milho.jpg",
+    "shortDescription": "A creamy Brazilian corn side dish made with milk and cream.",
+    "time": "30 min",
+    "difficulty": "easy",
+    "ingredients": [
+      "1 can corn",
+      "1 1/2 cups milk",
+      "1 tablespoon butter",
+      "1 medium grated onion",
+      "1 vegetable bouillon cube",
+      "1 can heavy cream",
+      "2 tablespoons all-purpose flour"
+    ],
+    "instructions": [
+      "Blend the corn with the milk until smooth.",
+      "In a pan, heat the butter and sauté the onion until lightly golden.",
+      "Add the flour and stir quickly to create a creamy base.",
+      "Add the blended corn and the vegetable bouillon cube.",
+      "Cook over medium heat, stirring constantly until it thickens.",
+      "Add the heavy cream, mix well, and turn off the heat."
+    ]
+  }
 ]
